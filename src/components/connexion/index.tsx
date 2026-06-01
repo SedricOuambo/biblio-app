@@ -6,7 +6,6 @@ export default function Connexion() {
                 <p>
                     Veuillez-vous connecter
                 </p>
-                <p>ToTo</p>
             </div>
         </main>
     );
