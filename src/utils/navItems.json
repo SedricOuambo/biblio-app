@@ -3,5 +3,6 @@
     { "label": "Documents", "href": "/documents" },
     { "label": "Contact", "href": "/contact" },
     { "label": "Connexion", "href": "/connexion" },
-    { "label": "A propos", "href": "/a-propos" }
+    { "label": "A propos", "href": "/a-propos" },
+    { "label": "Souvenir", "href": "/souvenir" }
 ]
